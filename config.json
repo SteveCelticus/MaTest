@@ -1,15 +1,15 @@
 {
   "Siti": {
          "StreamingCommunity": {
-             "domain": "family",
-             "SC_ForwardProxy": "1"
+             "domain": "asia",
+             "SC_ForwardProxy": "0"
          },
          "Filmpertutti": {
              "domain": "app"
          },
          "Tantifilm":{
              "domain": "bond",
-             "TF_ForwardProxy": "1",
+             "TF_ForwardProxy": "0",
              "TF_PROXY": "0"
          },
          "Mysterius":{
