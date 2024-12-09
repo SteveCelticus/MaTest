@@ -1,8 +1,8 @@
 {
   "Siti": {
          "StreamingCommunity": {
-             "domain": "asia",
-             "SC_ForwardProxy": "0"
+             "domain": "family",
+             "SC_ForwardProxy": "1"
          },
          "Filmpertutti": {
              "domain": "app"
